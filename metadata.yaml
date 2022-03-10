@@ -5,12 +5,17 @@ contributor:
     agent_name: Campbell, Ray
     gutenberg_agent_id: '54337'
     url: http://www.gutenberg.org/2009/agents/54337
+covers:
+- cover_type: archival
+  image_path: 67571-h/images/cover.jpg
 creator:
   author:
     agent_name: O'Connor, Patrick
     gutenberg_agent_id: '54336'
     url: http://www.gutenberg.org/2009/agents/54336
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67571#The-Black-Tiger
 gutenberg_issued: '2022-03-06'
 identifiers:
   gutenberg: '67571'
